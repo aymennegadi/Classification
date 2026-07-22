@@ -52,6 +52,20 @@ This chapter explains how Decision Trees classify data by recursively splitting 
 * Prediction process
 * Worked numerical examples
 
+### Chapter 4 — K-Nearest Neighbors (KNN)
+
+This chapter introduces the K-Nearest Neighbors algorithm, a distance-based classification method that predicts the class of a new observation using the labels of its nearest neighbors.
+
+**Topics covered:**
+
+* Introduction to K-Nearest Neighbors (KNN)
+* Instance-based (lazy) learning
+* Choosing the value of **K**
+* Distance metrics (Euclidean, Manhattan, and Minkowski)
+* Classification by majority voting
+* Worked numerical examples
+* Advantages and limitations of KNN
+
 ## Classification Algorithms
 
 This project studies the following algorithms in order:
@@ -66,4 +80,4 @@ This project studies the following algorithms in order:
 
 ## Objective
 
-This repository is intended for students and beginners who want to learn classification algorithms from both theoretical and practical perspectives through clear explanations, mathematical foundations, worked examples, and well-structured LaTeX documentation.
+This repository is intended for students, beginners, and self-learners who want to study classification algorithms from both theoretical and practical perspectives. Each chapter combines intuitive explanations, mathematical foundations, worked examples, and well-structured LaTeX documentation to provide a clear and comprehensive learning experience.
