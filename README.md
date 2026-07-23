@@ -19,6 +19,8 @@ This chapter provides the theoretical foundation required before studying classi
 * Evaluation metrics (Confusion Matrix, Accuracy, Precision, Recall, and F1-Score)
 * Overview of seven classical classification algorithms
 
+---
+
 ### Chapter 2 — Logistic Regression
 
 This chapter introduces the first classification algorithm and explains how it performs binary classification.
@@ -33,6 +35,8 @@ This chapter introduces the first classification algorithm and explains how it p
 * Probability estimation and decision threshold
 * Prediction process
 * Worked numerical examples
+
+---
 
 ### Chapter 3 — Decision Tree
 
@@ -52,6 +56,8 @@ This chapter explains how Decision Trees classify data by recursively splitting 
 * Prediction process
 * Worked numerical examples
 
+---
+
 ### Chapter 4 — K-Nearest Neighbors (KNN)
 
 This chapter introduces the K-Nearest Neighbors algorithm, a distance-based classification method that predicts the class of a new observation using the labels of its nearest neighbors.
@@ -66,6 +72,27 @@ This chapter introduces the K-Nearest Neighbors algorithm, a distance-based clas
 * Worked numerical examples
 * Advantages and limitations of KNN
 
+---
+
+### Chapter 5 — Naive Bayes
+
+This chapter introduces the Naive Bayes classifier, a probabilistic algorithm based on Bayes' Theorem that performs classification by estimating the probability of each class given the observed features.
+
+**Topics covered:**
+
+* Introduction to Naive Bayes
+* Probability and Conditional Probability
+* Bayes' Theorem
+* Prior, Likelihood, Evidence, and Posterior probabilities
+* The Naive Independence Assumption
+* How Naive Bayes performs classification
+* Types of Naive Bayes (Gaussian, Multinomial, and Bernoulli)
+* Worked numerical example
+* Applications
+* Advantages and limitations
+
+---
+
 ## Classification Algorithms
 
 This project studies the following algorithms in order:
@@ -77,6 +104,8 @@ This project studies the following algorithms in order:
 5. Support Vector Machine (SVM)
 6. Random Forest
 7. Gradient Boosting Machine (GBM)
+
+---
 
 ## Objective
 
