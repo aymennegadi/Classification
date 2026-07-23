@@ -93,6 +93,65 @@ This chapter introduces the Naive Bayes classifier, a probabilistic algorithm ba
 
 ---
 
+### Chapter 6 — Support Vector Machine (SVM)
+
+This chapter introduces Support Vector Machines, one of the most powerful supervised learning algorithms for classification. It explains how SVM finds the optimal decision boundary by maximizing the margin between classes.
+
+**Topics covered:**
+
+* Introduction to Support Vector Machine (SVM)
+* Basic idea of SVM and maximum margin principle
+* Hyperplane and decision boundary
+* Margin and Support Vectors
+* Hard Margin and Soft Margin SVM
+* Regularization parameter (**C**)
+* Linear SVM
+* Kernel Trick
+* Common kernel functions (Linear, Polynomial, RBF, and Sigmoid)
+* Prediction process
+* Worked numerical example
+* Applications
+* Advantages and limitations
+
+---
+
+## Upcoming Chapters
+
+The following chapters are currently under development:
+
+### Chapter 7 — Random Forest
+
+Topics will include:
+
+* Ensemble Learning
+* Bootstrap Sampling (Bagging)
+* Decision Tree Ensembles
+* Random Feature Selection
+* Majority Voting
+* Feature Importance
+* Worked numerical examples
+* Applications
+* Advantages and limitations
+
+---
+
+### Chapter 8 — Gradient Boosting Machine (GBM)
+
+Topics will include:
+
+* Boosting
+* Sequential Learning
+* Weak Learners
+* Gradient Descent Concept
+* Loss Functions
+* Learning Rate
+* Prediction Process
+* Worked numerical examples
+* Applications
+* Advantages and limitations
+
+---
+
 ## Classification Algorithms
 
 This project studies the following algorithms in order:
