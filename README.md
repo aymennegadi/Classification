@@ -100,14 +100,14 @@ This chapter introduces Support Vector Machines, one of the most powerful superv
 **Topics covered:**
 
 * Introduction to Support Vector Machine (SVM)
-* Basic idea of SVM and maximum margin principle
-* Hyperplane and decision boundary
+* Basic idea of SVM and the Maximum Margin Principle
+* Hyperplane and Decision Boundary
 * Margin and Support Vectors
 * Hard Margin and Soft Margin SVM
 * Regularization parameter (**C**)
 * Linear SVM
 * Kernel Trick
-* Common kernel functions (Linear, Polynomial, RBF, and Sigmoid)
+* Common Kernel Functions (Linear, Polynomial, RBF, and Sigmoid)
 * Prediction process
 * Worked numerical example
 * Applications
@@ -115,25 +115,31 @@ This chapter introduces Support Vector Machines, one of the most powerful superv
 
 ---
 
-## Upcoming Chapters
+### Chapter 7 — Random Forest *(In Progress)*
 
-The following chapters are currently under development:
+This chapter introduces Random Forest, one of the most successful ensemble learning algorithms. It explains how multiple Decision Trees are combined to improve prediction accuracy while reducing overfitting.
 
-### Chapter 7 — Random Forest
+**Topics covered:**
 
-Topics will include:
-
+* Introduction to Random Forest
 * Ensemble Learning
 * Bootstrap Sampling (Bagging)
 * Decision Tree Ensembles
 * Random Feature Selection
 * Majority Voting
+* Mathematical Formulation
+* Random Forest Training Algorithm
+* Prediction Process
 * Feature Importance
+* Out-of-Bag (OOB) Error
+* Hyperparameters
 * Worked numerical examples
 * Applications
 * Advantages and limitations
 
 ---
+
+## Upcoming Chapters
 
 ### Chapter 8 — Gradient Boosting Machine (GBM)
 
@@ -154,7 +160,7 @@ Topics will include:
 
 ## Classification Algorithms
 
-This project studies the following algorithms in order:
+This project studies the following classical classification algorithms:
 
 1. Logistic Regression
 2. Decision Tree
@@ -168,4 +174,17 @@ This project studies the following algorithms in order:
 
 ## Objective
 
-This repository is intended for students, beginners, and self-learners who want to study classification algorithms from both theoretical and practical perspectives. Each chapter combines intuitive explanations, mathematical foundations, worked examples, and well-structured LaTeX documentation to provide a clear and comprehensive learning experience.
+This repository is intended for students, beginners, and self-learners who want to study machine learning classification from both theoretical and practical perspectives.
+
+Each chapter combines:
+
+* Intuitive explanations
+* Mathematical foundations
+* Step-by-step derivations
+* Worked numerical examples
+* Algorithmic workflows
+* Python implementation examples
+* Professional LaTeX documentation
+
+The objective is to provide a clear, structured, and comprehensive learning resource that bridges theory and practical implementation.
+
