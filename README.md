@@ -172,6 +172,45 @@ This project studies the following classical classification algorithms:
 
 ---
 
+## Practical Implementations
+
+In addition to the theoretical chapters, this repository includes complete hands-on implementations of the classification algorithms using Python and Scikit-learn. Each practical project follows the standard machine learning workflow, allowing readers to understand not only the theory but also how to apply each algorithm to real-world datasets.
+
+### Completed Practical Projects
+
+#### Logistic Regression
+**Dataset:** Breast Cancer Wisconsin Dataset
+
+**Workflow:**
+- Load and explore the dataset
+- Create a Pandas DataFrame
+- Separate features and target
+- Split the dataset into training and testing sets
+- Standardize the features using `StandardScaler`
+- Train a Logistic Regression model
+- Make predictions on unseen data
+- Evaluate the model using Accuracy, Confusion Matrix, and Classification Report
+
+---
+
+#### Decision Tree
+**Dataset:** Titanic Dataset
+
+**Workflow:**
+- Load and explore the dataset
+- Handle missing values
+- Remove unnecessary columns
+- Encode categorical variables
+- Separate features and target
+- Split the dataset into training and testing sets
+- Train a Decision Tree classifier
+- Predict passenger survival
+- Evaluate the model using Accuracy, Confusion Matrix, and Classification Report
+
+---
+
+Future practical implementations will be added for K-Nearest Neighbors (KNN), Naive Bayes, Support Vector Machine (SVM), Random Forest, and Gradient Boosting Machine (GBM).
+
 ## Objective
 
 This repository is intended for students, beginners, and self-learners who want to study machine learning classification from both theoretical and practical perspectives.
